@@ -1,4 +1,4 @@
-# Blue-Green-Deployment
+Seamless Deploy: A Blue-Green Deployment Framework
 This repository demonstrates a Blue-Green deployment strategy using Kubernetes and Jenkins. It provides a seamless way to release new versions of an application while minimizing downtime and reducing the risk during deployments.
 
 **Features**
